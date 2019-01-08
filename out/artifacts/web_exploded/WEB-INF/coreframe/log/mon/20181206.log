@@ -1,0 +1,63 @@
+18/12/06 09:08:58.093 068 W1 <M> 17 coreframe.db.ConnectionManager (derbyPool)
+0 coreframe.db.ConnectionManager (derbyPool) 1028
+18/12/06 09:09:51.587 065 W1 <M> URL ERROR
+
+*REQUEST[null] null
+*EXCEPTION
+javax.servlet.ServletException: myProject command is not exist
+	at corelogic.servlet.GateControlServlet.service(GateControlServlet.java:165)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at coreview.layout.filter.UIFilter.doFilter(UIFilter.java:534)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:800)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1471)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+18/12/06 09:10:09.101 064 W1 <M> 32 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1411
+18/12/06 09:19:53.224 064 W1 <M> 36 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1161
+18/12/06 13:23:02.498 068 W1 <M> 29 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1642
+18/12/06 13:35:13.826 063 W1 <M> 28 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1022
+18/12/06 14:36:34.749 064 W1 <M> 31 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 3940
+18/12/06 15:10:39.215 062 W1 <M> 29 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1006
+18/12/06 15:31:37.851 068 W1 <M> 32 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 3649
+18/12/06 15:31:48.627 062 W1 <M> 34 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1153
+18/12/06 15:45:31.645 065 W1 <M> 33 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1365
+18/12/06 15:45:43.800 064 W1 <M> 33 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1542
+18/12/06 15:47:43.771 065 W1 <M> 36 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1420
+18/12/06 17:47:09.488 063 W1 <M> 31 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 2212
+18/12/06 17:47:28.457 063 W1 <M> 36 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 7329
+18/12/06 17:47:31.141 069 W1 <M> 30 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 4826

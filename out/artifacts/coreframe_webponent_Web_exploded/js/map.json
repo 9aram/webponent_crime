@@ -1,0 +1,79 @@
+{
+  "Result": {
+    "Code": "00",
+    "City": [
+      {
+        "city-name": "강원도",
+        "city-count": "146"
+      },
+      {
+        "city-name": "경기도",
+        "city-count": "1055"
+      },
+      {
+        "city-name": "경상남도",
+        "city-count": "303"
+      },
+      {
+        "city-name": "경상북도",
+        "city-count": "290"
+      },
+      {
+        "city-name": "광주광역시",
+        "city-count": "166"
+      },
+      {
+        "city-name": "기타",
+        "city-count": "673"
+      },
+      {
+        "city-name": "대구광역시",
+        "city-count": "170"
+      },
+      {
+        "city-name": "대전광역시",
+        "city-count": "100"
+      },
+      {
+        "city-name": "부산광역시",
+        "city-count": "315"
+      },
+      {
+        "city-name": "서울특별시",
+        "city-count": "754"
+      },
+      {
+        "city-name": "세종특별자치시",
+        "city-count": "6"
+      },
+      {
+        "city-name": "울산광역시",
+        "city-count": "86"
+      },
+      {
+        "city-name": "인천광역시",
+        "city-count": "259"
+      },
+      {
+        "city-name": "전라남도",
+        "city-count": "259"
+      },
+      {
+        "city-name": "전라북도",
+        "city-count": "174"
+      },
+      {
+        "city-name": "제주도",
+        "city-count": "63"
+      },
+      {
+        "city-name": "충청남도",
+        "city-count": "257"
+      },
+      {
+        "city-name": "충청북도",
+        "city-count": "126"
+      }
+    ]
+  }
+}

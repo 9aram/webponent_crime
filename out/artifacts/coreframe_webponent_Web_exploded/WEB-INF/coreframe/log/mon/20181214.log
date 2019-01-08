@@ -1,0 +1,564 @@
+18/12/14 09:28:34.376 065 W1 <M> 31 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 4533
+18/12/14 09:32:54.906 059 W1 <M> 32 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1049
+18/12/14 09:54:25.427 061 W1 <M> 33 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1223
+18/12/14 10:33:24.136 061 W1 <M> 27 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1181
+18/12/14 10:34:39.903 059 W1 <M> 31 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1022
+18/12/14 13:24:59.662 064 W1 <M> 32 coreview.layout.filter.UIFilter (/myProject/bar_month.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/bar_month.jsp) 1000
+18/12/14 13:27:22.346 062 W1 <M> 32 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1577
+18/12/14 14:51:47.462 069 W1 <M> 33 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1431
+18/12/14 14:51:47.524 064 W1 <M> URL ERROR
+
+*REQUEST[null] null
+*EXCEPTION
+org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [55] in the jsp file: [/myProject/list.jsp]
+π¸¡À∏Ì cannot be resolved to a type
+52:     </nav>
+53:     <div>
+54:         <span class="square"> ?ñ†</span>
+55:         <span class="subtitle"> <% Î≤îÏ£ÑÎ™?%> Î≤îÏ£Ñ Î∞úÏÉù ?ÜµÍ≥?</span>
+56:         <span id="today_date">dd</span>
+57:     </div>
+58:     <div class="divide_line"></div>
+
+
+An error occurred at line: [55] in the jsp file: [/myProject/list.jsp]
+Duplicate local variable out
+52:     </nav>
+53:     <div>
+54:         <span class="square"> ?ñ†</span>
+55:         <span class="subtitle"> <% Î≤îÏ£ÑÎ™?%> Î≤îÏ£Ñ Î∞úÏÉù ?ÜµÍ≥?</span>
+56:         <span id="today_date">dd</span>
+57:     </div>
+58:     <div class="divide_line"></div>
+
+
+An error occurred at line: [55] in the jsp file: [/myProject/list.jsp]
+Syntax error on token ".", ; expected
+52:     </nav>
+53:     <div>
+54:         <span class="square"> ?ñ†</span>
+55:         <span class="subtitle"> <% Î≤îÏ£ÑÎ™?%> Î≤îÏ£Ñ Î∞úÏÉù ?ÜµÍ≥?</span>
+56:         <span id="today_date">dd</span>
+57:     </div>
+58:     <div class="divide_line"></div>
+
+
+An error occurred at line: [55] in the jsp file: [/myProject/list.jsp]
+The method write(String) is undefined for the type list_jsp
+52:     </nav>
+53:     <div>
+54:         <span class="square"> ?ñ†</span>
+55:         <span class="subtitle"> <% Î≤îÏ£ÑÎ™?%> Î≤îÏ£Ñ Î∞úÏÉù ?ÜµÍ≥?</span>
+56:         <span id="today_date">dd</span>
+57:     </div>
+58:     <div class="divide_line"></div>
+
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:212)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at coreview.layout.filter.UIFilter.doFilter(UIFilter.java:534)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+18/12/14 14:51:57.558 068 W1 <M> URL ERROR
+
+*REQUEST[null] null
+*EXCEPTION
+org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [55] in the jsp file: [/myProject/list.jsp]
+π¸¡À∏Ì cannot be resolved to a type
+52:     </nav>
+53:     <div>
+54:         <span class="square"> ?ñ†</span>
+55:         <span class="subtitle"> <% Î≤îÏ£ÑÎ™?%> Î≤îÏ£Ñ Î∞úÏÉù ?ÜµÍ≥?</span>
+56:         <span id="today_date">dd</span>
+57:     </div>
+58:     <div class="divide_line"></div>
+
+
+An error occurred at line: [55] in the jsp file: [/myProject/list.jsp]
+Duplicate local variable out
+52:     </nav>
+53:     <div>
+54:         <span class="square"> ?ñ†</span>
+55:         <span class="subtitle"> <% Î≤îÏ£ÑÎ™?%> Î≤îÏ£Ñ Î∞úÏÉù ?ÜµÍ≥?</span>
+56:         <span id="today_date">dd</span>
+57:     </div>
+58:     <div class="divide_line"></div>
+
+
+An error occurred at line: [55] in the jsp file: [/myProject/list.jsp]
+Syntax error on token ".", ; expected
+52:     </nav>
+53:     <div>
+54:         <span class="square"> ?ñ†</span>
+55:         <span class="subtitle"> <% Î≤îÏ£ÑÎ™?%> Î≤îÏ£Ñ Î∞úÏÉù ?ÜµÍ≥?</span>
+56:         <span id="today_date">dd</span>
+57:     </div>
+58:     <div class="divide_line"></div>
+
+
+An error occurred at line: [55] in the jsp file: [/myProject/list.jsp]
+The method write(String) is undefined for the type list_jsp
+52:     </nav>
+53:     <div>
+54:         <span class="square"> ?ñ†</span>
+55:         <span class="subtitle"> <% Î≤îÏ£ÑÎ™?%> Î≤îÏ£Ñ Î∞úÏÉù ?ÜµÍ≥?</span>
+56:         <span id="today_date">dd</span>
+57:     </div>
+58:     <div class="divide_line"></div>
+
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:212)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at coreview.layout.filter.UIFilter.doFilter(UIFilter.java:534)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+18/12/14 14:52:08.090 066 W1 <M> URL ERROR
+
+*REQUEST[null] null
+*EXCEPTION
+org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [55] in the jsp file: [/myProject/list.jsp]
+π¸¡À∏Ì cannot be resolved to a type
+52:     </nav>
+53:     <div>
+54:         <span class="square"> ?ñ†</span>
+55:         <span class="subtitle"> <% Î≤îÏ£ÑÎ™?%> Î≤îÏ£Ñ Î∞úÏÉù ?ÜµÍ≥?</span>
+56:         <span id="today_date">dd</span>
+57:     </div>
+58:     <div class="divide_line"></div>
+
+
+An error occurred at line: [55] in the jsp file: [/myProject/list.jsp]
+Duplicate local variable out
+52:     </nav>
+53:     <div>
+54:         <span class="square"> ?ñ†</span>
+55:         <span class="subtitle"> <% Î≤îÏ£ÑÎ™?%> Î≤îÏ£Ñ Î∞úÏÉù ?ÜµÍ≥?</span>
+56:         <span id="today_date">dd</span>
+57:     </div>
+58:     <div class="divide_line"></div>
+
+
+An error occurred at line: [55] in the jsp file: [/myProject/list.jsp]
+Syntax error on token ".", ; expected
+52:     </nav>
+53:     <div>
+54:         <span class="square"> ?ñ†</span>
+55:         <span class="subtitle"> <% Î≤îÏ£ÑÎ™?%> Î≤îÏ£Ñ Î∞úÏÉù ?ÜµÍ≥?</span>
+56:         <span id="today_date">dd</span>
+57:     </div>
+58:     <div class="divide_line"></div>
+
+
+An error occurred at line: [55] in the jsp file: [/myProject/list.jsp]
+The method write(String) is undefined for the type list_jsp
+52:     </nav>
+53:     <div>
+54:         <span class="square"> ?ñ†</span>
+55:         <span class="subtitle"> <% Î≤îÏ£ÑÎ™?%> Î≤îÏ£Ñ Î∞úÏÉù ?ÜµÍ≥?</span>
+56:         <span id="today_date">dd</span>
+57:     </div>
+58:     <div class="divide_line"></div>
+
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:212)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at coreview.layout.filter.UIFilter.doFilter(UIFilter.java:534)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+18/12/14 14:52:13.140 066 W1 <M> URL ERROR
+
+*REQUEST[null] null
+*EXCEPTION
+org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [55] in the jsp file: [/myProject/list.jsp]
+π¸¡À∏Ì cannot be resolved to a type
+52:     </nav>
+53:     <div>
+54:         <span class="square"> ?ñ†</span>
+55:         <span class="subtitle"> <% Î≤îÏ£ÑÎ™?%> Î≤îÏ£Ñ Î∞úÏÉù ?ÜµÍ≥?</span>
+56:         <span id="today_date">dd</span>
+57:     </div>
+58:     <div class="divide_line"></div>
+
+
+An error occurred at line: [55] in the jsp file: [/myProject/list.jsp]
+Duplicate local variable out
+52:     </nav>
+53:     <div>
+54:         <span class="square"> ?ñ†</span>
+55:         <span class="subtitle"> <% Î≤îÏ£ÑÎ™?%> Î≤îÏ£Ñ Î∞úÏÉù ?ÜµÍ≥?</span>
+56:         <span id="today_date">dd</span>
+57:     </div>
+58:     <div class="divide_line"></div>
+
+
+An error occurred at line: [55] in the jsp file: [/myProject/list.jsp]
+Syntax error on token ".", ; expected
+52:     </nav>
+53:     <div>
+54:         <span class="square"> ?ñ†</span>
+55:         <span class="subtitle"> <% Î≤îÏ£ÑÎ™?%> Î≤îÏ£Ñ Î∞úÏÉù ?ÜµÍ≥?</span>
+56:         <span id="today_date">dd</span>
+57:     </div>
+58:     <div class="divide_line"></div>
+
+
+An error occurred at line: [55] in the jsp file: [/myProject/list.jsp]
+The method write(String) is undefined for the type list_jsp
+52:     </nav>
+53:     <div>
+54:         <span class="square"> ?ñ†</span>
+55:         <span class="subtitle"> <% Î≤îÏ£ÑÎ™?%> Î≤îÏ£Ñ Î∞úÏÉù ?ÜµÍ≥?</span>
+56:         <span id="today_date">dd</span>
+57:     </div>
+58:     <div class="divide_line"></div>
+
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:212)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at coreview.layout.filter.UIFilter.doFilter(UIFilter.java:534)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+18/12/14 14:52:30.684 066 W1 <M> 36 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1746
+18/12/14 14:52:30.695 068 W1 <M> URL ERROR
+
+*REQUEST[null] null
+*EXCEPTION
+org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [55] in the jsp file: [/myProject/list.jsp]
+π¸¡À∏Ì cannot be resolved to a type
+52:     </nav>
+53:     <div>
+54:         <span class="square"> ?ñ†</span>
+55:         <span class="subtitle"> <% Î≤îÏ£ÑÎ™?%> Î≤îÏ£Ñ Î∞úÏÉù ?ÜµÍ≥?</span>
+56:         <span id="today_date">dd</span>
+57:     </div>
+58:     <div class="divide_line"></div>
+
+
+An error occurred at line: [55] in the jsp file: [/myProject/list.jsp]
+Duplicate local variable out
+52:     </nav>
+53:     <div>
+54:         <span class="square"> ?ñ†</span>
+55:         <span class="subtitle"> <% Î≤îÏ£ÑÎ™?%> Î≤îÏ£Ñ Î∞úÏÉù ?ÜµÍ≥?</span>
+56:         <span id="today_date">dd</span>
+57:     </div>
+58:     <div class="divide_line"></div>
+
+
+An error occurred at line: [55] in the jsp file: [/myProject/list.jsp]
+Syntax error on token ".", ; expected
+52:     </nav>
+53:     <div>
+54:         <span class="square"> ?ñ†</span>
+55:         <span class="subtitle"> <% Î≤îÏ£ÑÎ™?%> Î≤îÏ£Ñ Î∞úÏÉù ?ÜµÍ≥?</span>
+56:         <span id="today_date">dd</span>
+57:     </div>
+58:     <div class="divide_line"></div>
+
+
+An error occurred at line: [55] in the jsp file: [/myProject/list.jsp]
+The method write(String) is undefined for the type list_jsp
+52:     </nav>
+53:     <div>
+54:         <span class="square"> ?ñ†</span>
+55:         <span class="subtitle"> <% Î≤îÏ£ÑÎ™?%> Î≤îÏ£Ñ Î∞úÏÉù ?ÜµÍ≥?</span>
+56:         <span id="today_date">dd</span>
+57:     </div>
+58:     <div class="divide_line"></div>
+
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:212)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at coreview.layout.filter.UIFilter.doFilter(UIFilter.java:534)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+18/12/14 14:52:50.612 064 W1 <M> 37 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1248
+18/12/14 14:52:50.618 065 W1 <M> URL ERROR
+
+*REQUEST[null] null
+*EXCEPTION
+org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [55] in the jsp file: [/myProject/list.jsp]
+π¸¡À∏Ì cannot be resolved to a type
+52:     </nav>
+53:     <div>
+54:         <span class="square"> ?ñ†</span>
+55:         <span class="subtitle"> <% Î≤îÏ£ÑÎ™?%> Î≤îÏ£Ñ Î∞úÏÉù ?ÜµÍ≥?</span>
+56:         <span id="today_date">dd</span>
+57:     </div>
+58:     <div class="divide_line"></div>
+
+
+An error occurred at line: [55] in the jsp file: [/myProject/list.jsp]
+Duplicate local variable out
+52:     </nav>
+53:     <div>
+54:         <span class="square"> ?ñ†</span>
+55:         <span class="subtitle"> <% Î≤îÏ£ÑÎ™?%> Î≤îÏ£Ñ Î∞úÏÉù ?ÜµÍ≥?</span>
+56:         <span id="today_date">dd</span>
+57:     </div>
+58:     <div class="divide_line"></div>
+
+
+An error occurred at line: [55] in the jsp file: [/myProject/list.jsp]
+Syntax error on token ".", ; expected
+52:     </nav>
+53:     <div>
+54:         <span class="square"> ?ñ†</span>
+55:         <span class="subtitle"> <% Î≤îÏ£ÑÎ™?%> Î≤îÏ£Ñ Î∞úÏÉù ?ÜµÍ≥?</span>
+56:         <span id="today_date">dd</span>
+57:     </div>
+58:     <div class="divide_line"></div>
+
+
+An error occurred at line: [55] in the jsp file: [/myProject/list.jsp]
+The method write(String) is undefined for the type list_jsp
+52:     </nav>
+53:     <div>
+54:         <span class="square"> ?ñ†</span>
+55:         <span class="subtitle"> <% Î≤îÏ£ÑÎ™?%> Î≤îÏ£Ñ Î∞úÏÉù ?ÜµÍ≥?</span>
+56:         <span id="today_date">dd</span>
+57:     </div>
+58:     <div class="divide_line"></div>
+
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:212)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at coreview.layout.filter.UIFilter.doFilter(UIFilter.java:534)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+18/12/14 14:52:58.909 063 W1 <M> 30 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1400
+18/12/14 15:29:26.742 066 W1 <M> 31 coreview.layout.filter.UIFilter (/myProject/bar_month.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/bar_month.jsp) 1101
+18/12/14 16:01:18.341 064 W1 <M> 35 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1143
+18/12/14 16:32:01.725 068 W1 <M> 33 coreview.layout.filter.UIFilter (/myProject/main.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/main.jsp) 1024
+18/12/14 16:32:18.267 064 W1 <M> 34 coreview.layout.filter.UIFilter (/myProject/main.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/main.jsp) 1262
+18/12/14 16:32:26.680 065 W1 <M> 36 coreview.layout.filter.UIFilter (/myProject/main.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/main.jsp) 1377
+18/12/14 16:35:23.985 065 W1 <M> 35 coreview.layout.filter.UIFilter (/myProject/main.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/main.jsp) 1189
+18/12/14 16:37:01.095 067 W1 <M> 36 coreview.layout.filter.UIFilter (/myProject/main.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/main.jsp) 1122

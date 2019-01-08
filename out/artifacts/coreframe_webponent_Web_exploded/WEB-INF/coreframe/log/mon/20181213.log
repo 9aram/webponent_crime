@@ -1,0 +1,52 @@
+18/12/13 09:07:34.163 071 W1 <M> 21 coreframe.db.ConnectionManager (derbyPool)
+0 coreframe.db.ConnectionManager (derbyPool) 1422
+18/12/13 09:07:54.964 070 W1 <M> 34 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1693
+18/12/13 09:12:45.024 071 W1 <M> 32 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 2242
+18/12/13 09:14:59.336 068 W1 <M> 36 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1615
+18/12/13 09:15:38.256 068 W1 <M> 32 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1293
+18/12/13 09:19:40.159 072 W1 <M> 37 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1841
+18/12/13 09:25:45.155 065 W1 <M> 37 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1544
+18/12/13 09:26:01.831 066 W1 <M> 39 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1804
+18/12/13 09:26:44.200 066 W1 <M> 34 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1031
+18/12/13 10:03:33.525 067 W1 <M> 40 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1079
+18/12/13 10:12:32.932 067 W1 <M> 34 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1033
+18/12/13 10:13:01.294 069 W1 <M> 31 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1065
+18/12/13 10:15:25.925 065 W1 <M> 38 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1270
+18/12/13 10:17:54.878 072 W1 <M> 37 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1049
+18/12/13 10:19:11.058 069 W1 <M> 33 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1173
+18/12/13 10:19:11.134 066 W1 <M> 40 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1639
+18/12/13 10:29:15.392 072 W1 <M> 35 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1307
+18/12/13 10:29:58.626 070 W1 <M> 34 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1514
+18/12/13 10:33:45.630 062 W1 <M> 17 coreframe.db.ConnectionManager (derbyPool)
+0 coreframe.db.ConnectionManager (derbyPool) 1801
+18/12/13 10:54:15.133 062 W1 <M> 29 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1129
+18/12/13 13:49:16.821 060 W1 <M> 24 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 2423
+18/12/13 14:00:24.543 061 W1 <M> 28 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1561
+18/12/13 15:33:44.487 063 W1 <M> 29 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 2193
+18/12/13 15:35:58.957 063 W1 <M> 29 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1166
+18/12/13 15:36:30.787 058 W1 <M> 33 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1657
+18/12/13 16:31:11.727 061 W1 <M> 33 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1359

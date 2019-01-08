@@ -1,0 +1,8 @@
+18/11/20 10:03:33.430 190 W1 <M> 62 coreframe.db.ConnectionManager (derbyPool)
+0 coreframe.db.ConnectionManager (derbyPool) 1451
+18/11/20 10:12:36.339 042 W1 <M> 91 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1453
+18/11/20 10:20:34.413 039 W1 <M> 88 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1118
+18/11/20 11:19:00.351 038 W1 <M> 90 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1047

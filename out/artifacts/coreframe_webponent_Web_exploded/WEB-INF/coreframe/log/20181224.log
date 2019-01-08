@@ -1,0 +1,311 @@
+18/12/24 15:51:44.877 064 W1 <S> coreframe.Configuration reload C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+18/12/24 15:51:44.886 064 W1 <S> coreframe.Configuration file syntax error C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+java.lang.IllegalStateException: java.io.FileNotFoundException: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\lib\annotations-api.jar (지정된 파일을 찾을 수 없습니다)
+18/12/24 15:51:51.054 066 W1 <S> coreframe.Configuration reload C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+18/12/24 15:51:51.055 066 W1 <S> coreframe.Configuration file syntax error C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+java.lang.IllegalStateException: java.io.FileNotFoundException: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\lib\annotations-api.jar (지정된 파일을 찾을 수 없습니다)
+18/12/24 15:51:57.059 071 W1 <S> coreframe.Configuration reload C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+18/12/24 15:51:57.059 071 W1 <S> coreframe.Configuration file syntax error C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+java.lang.IllegalStateException: java.io.FileNotFoundException: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\lib\annotations-api.jar (지정된 파일을 찾을 수 없습니다)
+18/12/24 15:52:03.068 065 W1 <S> coreframe.Configuration reload C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+18/12/24 15:52:03.068 065 W1 <S> coreframe.Configuration file syntax error C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+java.lang.IllegalStateException: java.io.FileNotFoundException: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\lib\annotations-api.jar (지정된 파일을 찾을 수 없습니다)
+18/12/24 15:52:09.102 071 W1 <S> coreframe.Configuration reload C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+18/12/24 15:52:09.102 071 W1 <S> coreframe.Configuration file syntax error C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+java.lang.IllegalStateException: java.io.FileNotFoundException: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\lib\annotations-api.jar (지정된 파일을 찾을 수 없습니다)
+18/12/24 15:52:15.217 067 W1 <S> coreframe.Configuration reload C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+18/12/24 15:52:15.217 067 W1 <S> coreframe.Configuration file syntax error C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+java.lang.IllegalStateException: java.io.FileNotFoundException: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\lib\annotations-api.jar (지정된 파일을 찾을 수 없습니다)
+18/12/24 15:52:21.299 065 W1 <S> coreframe.Configuration reload C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+18/12/24 15:52:21.299 065 W1 <S> coreframe.Configuration file syntax error C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+java.lang.IllegalStateException: java.io.FileNotFoundException: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\lib\annotations-api.jar (지정된 파일을 찾을 수 없습니다)
+18/12/24 15:52:27.442 071 W1 <S> coreframe.Configuration reload C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+18/12/24 15:52:27.442 071 W1 <S> coreframe.Configuration file syntax error C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+java.lang.IllegalStateException: java.io.FileNotFoundException: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\lib\annotations-api.jar (지정된 파일을 찾을 수 없습니다)
+18/12/24 15:52:33.478 064 W1 <S> coreframe.Configuration reload C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+18/12/24 15:52:33.478 064 W1 <S> coreframe.Configuration file syntax error C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+java.lang.IllegalStateException: java.io.FileNotFoundException: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\lib\annotations-api.jar (지정된 파일을 찾을 수 없습니다)
+18/12/24 15:52:39.494 070 W1 <S> coreframe.Configuration reload C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+18/12/24 15:52:39.494 070 W1 <S> coreframe.Configuration file syntax error C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+java.lang.IllegalStateException: java.io.FileNotFoundException: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\lib\annotations-api.jar (지정된 파일을 찾을 수 없습니다)
+18/12/24 15:52:45.511 068 W1 <S> coreframe.Configuration reload C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+18/12/24 15:52:45.511 068 W1 <S> coreframe.Configuration file syntax error C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+java.lang.IllegalStateException: java.io.FileNotFoundException: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\lib\annotations-api.jar (지정된 파일을 찾을 수 없습니다)
+18/12/24 15:52:51.609 064 W1 <S> coreframe.Configuration reload C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+18/12/24 15:52:51.609 064 W1 <S> coreframe.Configuration file syntax error C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+java.lang.IllegalStateException: java.io.FileNotFoundException: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\lib\annotations-api.jar (지정된 파일을 찾을 수 없습니다)
+18/12/24 15:52:57.745 071 W1 <S> coreframe.Configuration reload C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+18/12/24 15:52:57.745 071 W1 <S> coreframe.Configuration file syntax error C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+18/12/24 15:52:10.828 064 W1 <I> <t:MenuMgrBean> Menu DAO class : coreview.menu.dao.XmlMenuDao
+18/12/24 15:52:10.828 064 W1 <I> <t:XmlMenuDao> load menu dir:C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe name:sitemap.xml
+18/12/24 15:52:10.828 064 W1 <I> LOADING MENU ITEM 
+18/12/24 15:52:10.844 064 W1 <I> <t:XmlMenuDao> load menu info sucess. loadtime:16
+java.lang.IllegalStateException: java.io.FileNotFoundException: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\lib\annotations-api.jar (지정된 파일을 찾을 수 없습니다)
+18/12/24 15:53:03.877 064 W1 <S> coreframe.Configuration reload C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+18/12/24 15:53:03.877 064 W1 <S> coreframe.Configuration file syntax error C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+java.lang.IllegalStateException: java.io.FileNotFoundException: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\lib\annotations-api.jar (지정된 파일을 찾을 수 없습니다)
+18/12/24 15:53:10.076 071 W1 <S> coreframe.Configuration reload C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+18/12/24 15:53:10.076 071 W1 <S> coreframe.Configuration file syntax error C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+java.lang.IllegalStateException: java.io.FileNotFoundException: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\lib\annotations-api.jar (지정된 파일을 찾을 수 없습니다)
+18/12/24 15:53:14.915 090 W1 <S> **********************************************************
+18/12/24 15:53:14.915 090 W1 <S> <f:CoreApplication> coreFRAME stopping
+18/12/24 15:53:15.417 090 W1 <S> <CacheDriver> stop ConnectionPool:derbyPool [1]
+18/12/24 15:53:00.248 065 W1 <I> <ScheduleService> crontab file:C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe/service/schedule/crontab.txt
+18/12/24 15:53:15.433 090 W1 <I> <adapter> Java adapter stop
+18/12/24 15:53:15.433 090 W1 <I> <adapter> Mail adapter stop
+18/12/24 15:53:15.433 090 W1 <I> <adapter> Http adapter stop
+18/12/24 15:53:15.433 090 W1 <I> <adapter> DBMS adapter stop
+18/12/24 15:52:10.813 064 W1 <D> <t:MenuMgrBean> 초기화  documentRoot:C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\
+18/12/24 15:52:10.828 064 W1 <D> <t:MenuMgrBean> 초기화  contextPath:
+18/12/24 15:52:10.828 064 W1 <D> <t:MenuMgrBean> 초기화  isReload:true
+18/12/24 15:53:15.801 070 W1 <D> <t:MenuMgrBean> 초기화  documentRoot:C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\
+18/12/24 15:53:15.417 090 W1 <S> <CacheDriver> stop ConnectionPool:cf-system [1]
+18/12/24 15:53:15.433 090 W1 <I> <adapter> Http adapter stop
+18/12/24 15:53:15.801 070 W1 <D> <t:MenuMgrBean> 초기화  contextPath:
+18/12/24 15:53:15.801 070 W1 <D> <t:MenuMgrBean> 초기화  isReload:true
+18/12/24 15:52:10.828 064 W1 <E> <t:XmlMenuDao> load menu file[sitemap.xml] fail. java.lang.IllegalStateException: java.io.FileNotFoundException: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\lib\annotations-api.jar (지정된 파일을 찾을 수 없습니다)
+18/12/24 16:00:16.964 017 W1 <D> <f:CoreApplication> starting ...........................................  
+18/12/24 16:00:16.979 017 W1 <D> <f:CoreApplication> bean-info xml files
+C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\base.xml
+C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\adapters\dbms.xml
+C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\adapters\file.xml
+C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\adapters\http.xml
+C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\adapters\java.xml
+C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\adapters\mail.xml
+C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\adapters\soap.xml
+C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\web\filter.xml
+C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\web\naming.xml
+C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\web\security.xml
+C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\web\servlet.xml
+C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\web\thymeleaf.xml
+C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\web\transform.xml
+C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\web\web-sitemap.xml
+C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\event\server-event-listener.xml
+C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\schedule\schedule.xml
+C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\apm\performance-pack.xml
+
+18/12/24 16:00:17.042 017 W1 <D> bean-info filePath: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\base.xml
+  #coreframe.serviceManager	coreframe.service.ServiceManager true
+  #coreframe.dbPoolService	coreframe.db.DbPoolService true
+  #corelogic.connectionFactory	corelogic.adapter.BaseConnectionFactory true
+  #corelogic.adapterService	corelogic.spi.management.AdapterManagementService true
+18/12/24 16:00:17.058 017 W1 <D> bean-info filePath: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\adapters\dbms.xml
+  #adapter.dbms	corelogic.adapter.dbms.ResourceAdapterImpl true
+18/12/24 16:00:17.073 017 W1 <D> bean-info filePath: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\adapters\file.xml
+  #adapter.file	corelogic.adapter.file.ResourceAdapterImpl true
+  #adapter.file2	corelogic.adapter.file.ResourceAdapterImpl true
+  #adapter.file3	corelogic.adapter.file.ResourceAdapterImpl true
+18/12/24 16:00:17.073 017 W1 <D> bean-info filePath: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\adapters\http.xml
+  #adapter.http	corelogic.adapter.http.HttpResourceAdapter true
+18/12/24 16:00:17.097 017 W1 <D> bean-info filePath: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\adapters\java.xml
+  #adapter.java	corelogic.adapter.java.ResourceAdapterImtpl true
+18/12/24 16:00:17.101 017 W1 <D> bean-info filePath: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\adapters\mail.xml
+  #adapter.mail	corelogic.adapter.mail.ResourceAdapterImpl true
+18/12/24 16:00:17.103 017 W1 <D> bean-info filePath: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\adapters\soap.xml
+  #adapter.soap	corelogic.adapter.http.HttpResourceAdapter true
+18/12/24 16:00:17.105 017 W1 <D> bean-info filePath: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\web\filter.xml
+18/12/24 16:00:17.125 017 W1 <D> bean-info filePath: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\web\naming.xml
+  #coreframe.namingTemplate	coreframe.db.meta.CsvNamingTemplate true
+  #coreframe.bldManager	corelogic.spi.admin.DbmsBldManager true
+18/12/24 16:00:17.137 017 W1 <D> bean-info filePath: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\web\security.xml
+  #coreframe.webSecurityManager	coreframe.security.impl.EsapiSecurityManager true
+  #coreview.defaultWebAuthorizer	coreframe.security.impl.DefaultFrameworkAdminAuthorizer true
+18/12/24 16:00:17.215 017 W1 <D> bean-info filePath: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\web\servlet.xml
+  #corelogic.httpCommandManager	corelogic.servlet.CommandManager true
+  #corelogic.BldExecutorCommand	corelogic.servlet.command.BldExecutorCommand true
+  #corelogic.BldSchemaCommand	corelogic.servlet.command.BldSchemaCommand true
+  #corelogic.codeGenCommand	corelogic.servlet.command.CodeGenCommand true
+18/12/24 16:00:17.231 017 W1 <D> bean-info filePath: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\web\thymeleaf.xml
+  #thymeleaf	coreview.thymeleaf.ThymeleafViewTemplateEngine true
+18/12/24 16:00:17.434 017 W1 <D> bean-info filePath: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\web\transform.xml
+  #transform.xml	corelogic.transform.impl.XmlTransformerImpl false
+  #transform.soap	corelogic.transform.impl.SoapTransformerImpl false
+  #transform.json	corelogic.transform.impl.JSONTransformerImpl false
+  #transform.htm	corelogic.transform.impl.HtmlTransformerImpl false
+  #transform.html	corelogic.transform.impl.HtmlTransformerImpl false
+  #transform.xhtml	corelogic.transform.impl.XhtmlTransformerImpl false
+  #transform.cvs	corelogic.transform.impl.CommaTransformerImpl false
+  #transform.txt	corelogic.transform.impl.TabSplitTextTransformerImpl false
+  #transform.binary	corelogic.transform.impl.BinaryTransformerImpl false
+  #schemaTransform.xml	corelogic.transform.schema.impl.XmlSchemaTransformer true
+  #schemaTransform.xsd	corelogic.transform.schema.impl.XsdSchemaTransformer true
+  #schemaTransform.wsdl	corelogic.transform.schema.impl.WsdlSchemaTransformer true
+  #schemaTransform.json	corelogic.transform.schema.impl.JSONSchemaTransformer true
+  #corelogic.sourceGenerator.jsp	corelogic.transform.sourcecode.impl.JspSourceGenerator true
+  #corelogic.sourceGenerator.jstl	corelogic.transform.sourcecode.impl.JstlSourceGenerator true
+  #corelogic.sourceGenerator.ajax	corelogic.transform.sourcecode.impl.AjaxSourceGenerator true
+18/12/24 16:00:17.497 017 W1 <D> bean-info filePath: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\web\web-sitemap.xml
+  #coreview.layout.dao	coreview.layout.dao.XmlFileDao true
+  #coreview.menuDao	coreview.menu.dao.XmlMenuDao true
+  #coreview.layout.layoutMgr	coreview.layout.LayoutManager true
+  #coreview.menuMgr	coreview.menu.bean.MenuMgrBean true
+  #coreview.WebsiteManagementService	coreview.WebsiteManagementService true
+  #coreview.WebPagePublisher	coreview.menu.WebPagePublisher true
+  #coreview.urlRouteService	coreview.route.impl.RESTfulRouteService true
+  #coreview.ElementManagerService	coreview.layout.element.impl.ElementManagerServiceImpl true
+  #service.less.lessCompileService	coreframe.service.less.LessService true
+18/12/24 16:00:17.512 017 W1 <D> bean-info filePath: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\event\server-event-listener.xml
+  #coreframe.eventManager	coreframe.service.event.FrameworkEventManagerImpl true
+  #coreframe.event.webpageAccess	coreframe.service.event.listener.WebpageAccessEventListener true
+18/12/24 16:00:17.528 017 W1 <D> bean-info filePath: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\schedule\schedule.xml
+  #corelogic.ScheduleService	corelogic.schedule.ScheduleService true
+18/12/24 16:00:17.543 017 W1 <D> bean-info filePath: C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\service\apm\performance-pack.xml
+  #coreframe.service.performance	coreframe.service.performance.PerformanceMonitorService true
+  #coreframe.event.listener.chkPerform	coreframe.service.event.listener.PerformanceCheckListener true
+  #coreframe.event.listener.chkPerformBld	coreframe.service.event.listener.BldProcessEventListener true
+  #coreframe.event.processDelay	coreframe.service.event.listener.ProcessDelayEventListener true
+  #coreframe.event.listener.webpageError	coreframe.service.event.listener.WebpageErrorEventListener true
+  #coreframe.event.sessionMonitor	coreframe.service.monitor.WebuserCounter true18/12/24 16:00:16.948 017 W1 <S> <f:CoreApplication> coreFRAME 5.0.266
+18/12/24 16:00:16.964 017 W1 <S> <f:CoreApplication> coreFRAME jar:file:/C:/Users/CP/Downloads/workspace/coreframe-webponent/out/artifacts/coreframe_webponent_Web_exploded/WEB-INF/lib/coreframe-core-5.0.20.jar!/coreframe/CoreApplication.class
+18/12/24 16:00:16.979 017 W1 <S> * coreFRAME thread pool number:10
+18/12/24 16:00:16.979 017 W1 <S> <f:CoreApplication> beanFactory:coreframe.beans.DefaultBeanFactory
+
+18/12/24 16:00:17.571 017 W1 <D> <f:FrameworkEventManager> scope:cf:webuserWebpageError class:coreframe.service.event.listener.WebpageErrorEventListener
+18/12/24 16:00:17.571 017 W1 <D> <f:FrameworkEventManager> scope:cf:webuserWebpageAccess class:coreframe.service.event.listener.PerformanceCheckListener
+18/12/24 16:00:18.133 017 W1 <D> <f:FrameworkEventManager> scope:cf:corelogicBldProcess class:coreframe.service.event.listener.BldProcessEventListener
+18/12/24 16:00:18.117 017 W1 <I> <l:AdapterManagementService> regist adapter : file-reader-binary
+18/12/24 16:00:18.172 017 W1 <I> <l:AdapterManagementService> regist adapter : soap
+18/12/24 16:00:18.172 017 W1 <I> <f:EsapiSecurityManager> set homeDir [org.owasp.esapi.resources]C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\security
+18/12/24 16:00:18.293 017 W1 <I> <f:EsapiSecurityManager> skipUrlRegExp:/apps/admin
+18/12/24 16:00:17.633 017 W1 <S> <f:ServiceManager> regist service:PerformanceMonitorService
+18/12/24 16:00:18.086 017 W1 <S> <f:ServiceManager> regist service:ScheduleService
+18/12/24 16:00:18.117 017 W1 <S> <f:ServiceManager> regist service:businessLogicService
+18/12/24 16:00:18.308 017 W1 <S> <f:ServiceManager> regist service:LessService
+18/12/24 16:00:18.324 017 W1 <S> <f:ServiceManager> regist service:DbPooling Service
+18/12/24 16:00:18.308 017 W1 <I> <l:AdapterManagementService> regist adapter : http
+18/12/24 16:00:18.308 017 W1 <I> <l:AdapterManagementService> regist adapter : file-reader
+18/12/24 16:00:18.324 017 W1 <I> <l:AdapterManagementService> regist adapter : file-writer
+18/12/24 16:00:18.371 017 W1 <I> corelogic.adapter.dbms.ProcessorFactoryImpl instance create
+18/12/24 16:00:18.371 017 W1 <I> <l:AdapterManagementService> regist adapter : dbms
+18/12/24 16:00:18.339 017 W1 <S> <f:ServiceManager> regist service:ElementManagerServiceImpl
+18/12/24 16:00:18.371 017 W1 <S> <f:ServiceManager> regist service:WebPagePublisher
+18/12/24 16:00:18.386 017 W1 <S> <f:ServiceManager> regist service:WebsiteManagementService
+18/12/24 16:00:18.652 017 W1 <S> <f:ServiceManager> regist service:RESTfulRouteService
+18/12/24 16:00:18.668 017 W1 <S> <f:CoreApplication> supportJTA:false use JdbcTransaction
+18/12/24 16:00:18.133 017 W1 <D> <f:FrameworkEventManager> scope:cf:webuserSessionCreate class:coreframe.service.monitor.WebuserCounter
+18/12/24 16:00:18.133 017 W1 <D> <f:FrameworkEventManager> scope:cf:webuserSessionDestory class:coreframe.service.monitor.WebuserCounter
+18/12/24 16:00:18.149 017 W1 <D> <f:FrameworkEventManager> scope:cf:webuserProcessDelay class:coreframe.service.event.listener.ProcessDelayEventListener
+18/12/24 16:00:18.683 017 W1 <D> <f:ConnectionManager> derbyPool : coreframe.db.jdbc.CacheDriver
+18/12/24 16:00:19.236 017 W1 <D> [JDBC Pool:derbyPool] init
+18/12/24 16:00:19.237 017 W1 <D> [JDBC Pool:derbyPool] * info:{}
+18/12/24 16:00:19.237 017 W1 <D> [JDBC Pool:derbyPool] * url:jdbc:derby:C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe/_work/filedb/samples
+18/12/24 16:00:19.237 017 W1 <D> [JDBC Pool:derbyPool] info:{}
+18/12/24 16:00:20.009 017 W1 <D> <f:ConnectionManager> getConnection [JDBC] derbyPool coreframe.db.jdbc.CacheConnection@540c826d
+18/12/24 16:00:20.009 017 W1 <D> <f:ConnectionManager> cf-system : coreframe.db.jdbc.CacheDriver
+18/12/24 16:00:20.009 017 W1 <D> [JDBC Pool:cf-system] init
+18/12/24 16:00:20.009 017 W1 <D> [JDBC Pool:cf-system] * info:{}
+18/12/24 16:00:18.527 017 W1 <I> <l:AdapterManagementService> regist adapter : java
+18/12/24 16:00:18.668 017 W1 <I> <l:AdapterManagementService> regist adapter : mail
+18/12/24 16:00:18.668 017 W1 <I> <f:ConnectionManager>  use default url:derbyPool
+18/12/24 16:00:20.009 017 W1 <I> [JDBC Pool:derbyPool] 1 connection created.
+18/12/24 16:00:20.009 017 W1 <I> <f:DbPoolService> connection test OK:derbyPool
+18/12/24 16:00:20.150 017 W1 <I> [JDBC Pool:cf-system] 1 connection created.
+18/12/24 16:00:20.150 017 W1 <I> <f:DbPoolService> connection test OK:cf-system
+18/12/24 16:00:20.165 017 W1 <I> <l:BLContextFactory> check_interval_time:1000
+18/12/24 16:00:20.165 017 W1 <I> <l:BLContextFactory> initLoadBldMode:normal
+18/12/24 16:00:20.165 017 W1 <I> <l:BLContextFactory> load schema root dir : C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\bld
+18/12/24 16:00:20.165 017 W1 <I> <l:AdapterManagementService> adapter start : file-writer
+18/12/24 16:00:20.165 017 W1 <I> <l:AdapterManagementService> adapter start : java
+18/12/24 16:00:20.165 017 W1 <I> <adapter> Java adapter start
+18/12/24 16:00:20.165 017 W1 <I> <l:AdapterManagementService> adapter start : file-reader-binary
+18/12/24 16:00:20.165 017 W1 <I> <l:AdapterManagementService> adapter start : mail
+18/12/24 16:00:20.165 017 W1 <I> <adapter> Mail adapter start
+18/12/24 16:00:20.165 017 W1 <I> <l:AdapterManagementService> adapter start : file-reader
+18/12/24 16:00:20.165 017 W1 <I> <l:AdapterManagementService> adapter start : http
+18/12/24 16:00:20.165 017 W1 <I> <adapter> Http adapter start
+18/12/24 16:00:20.165 017 W1 <I> <l:AdapterManagementService> adapter start : dbms
+18/12/24 16:00:20.165 017 W1 <I> <adapter> DBMS adapter start
+18/12/24 16:00:20.165 017 W1 <I> <l:AdapterManagementService> adapter start : soap
+18/12/24 16:00:20.009 017 W1 <D> [JDBC Pool:cf-system] * url:jdbc:derby:C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe/_work/filedb/admin
+18/12/24 16:00:20.009 017 W1 <D> [JDBC Pool:cf-system] info:{}
+18/12/24 16:00:20.150 017 W1 <D> <f:ConnectionManager> getConnection [JDBC] cf-system coreframe.db.jdbc.CacheConnection@6efd81a3
+18/12/24 16:00:20.197 017 W1 <D> <v:ElementManagerService> regist element:calendar
+18/12/24 16:00:20.197 017 W1 <D> <v:ElementManagerService> regist element:chart
+18/12/24 16:00:20.197 017 W1 <D> <v:ElementManagerService> regist element:coreframe-client
+18/12/24 16:00:20.197 017 W1 <D> <v:ElementManagerService> regist element:data-bind
+18/12/24 16:00:20.197 017 W1 <D> <v:ElementManagerService> regist element:chart_comm
+18/12/24 16:00:20.197 017 W1 <D> <v:ElementManagerService> regist element:chart
+18/12/24 16:00:20.212 017 W1 <D> <v:ElementManagerService> regist element:grid
+18/12/24 16:00:20.212 017 W1 <D> <v:ElementManagerService> regist element:tab.pc
+18/12/24 16:00:20.212 017 W1 <D> <v:ElementManagerService> regist element:tab.mobile
+18/12/24 16:00:20.212 017 W1 <D> <v:ElementManagerService> regist element:tab.tablet
+18/12/24 16:00:20.212 017 W1 <D> <v:ElementManagerService> regist element:dialog.pc
+18/12/24 16:00:20.212 017 W1 <D> <v:ElementManagerService> regist element:dialog.tablet
+18/12/24 16:00:20.212 017 W1 <D> <v:ElementManagerService> regist element:dialog.mobile
+18/12/24 16:00:20.212 017 W1 <D> <v:ElementManagerService> regist element:websocket.pc
+18/12/24 16:00:20.212 017 W1 <D> <v:ElementManagerService> regist element:websocket.mobile
+18/12/24 16:00:20.212 017 W1 <D> <v:ElementManagerService> regist element:websocket.tablet
+18/12/24 16:00:20.212 017 W1 <D> <v:ElementManagerService> regist element:websocket.tablet-low
+18/12/24 16:00:20.212 017 W1 <D> <v:ElementManagerService> regist element:jquery
+18/12/24 16:00:20.212 017 W1 <D> <v:ElementManagerService> regist element:bootstrap
+18/12/24 16:00:20.212 017 W1 <D> <v:ElementManagerService> regist element:codemirror
+18/12/24 16:00:20.212 017 W1 <D> <v:ElementManagerService> regist element:hammer
+18/12/24 16:00:20.212 017 W1 <D> <v:ElementManagerService> regist element:less
+18/12/24 16:00:20.212 017 W1 <D> <v:ElementManagerService> regist element:underscore
+18/12/24 16:00:18.668 017 W1 <S> <f:CoreApplication> init - complete
+18/12/24 16:00:19.227 017 W1 <S> <CacheDriver> regist ConnectionPool : derbyPool
+18/12/24 16:00:20.009 017 W1 <S> <CacheDriver> regist ConnectionPool : cf-system
+18/12/24 16:00:20.150 017 W1 <S> <f:ServiceManager> start service:DbPooling Service
+18/12/24 16:00:20.165 017 W1 <S> <l:AdapterManagementService> regist adapter count 8
+18/12/24 16:00:20.165 017 W1 <S> <f:ServiceManager> start service:businessLogicService
+18/12/24 16:00:20.165 017 W1 <I> <adapter> Http adapter start
+18/12/24 16:00:20.228 017 W1 <I> <v:ElementManagerService> load element info
+18/12/24 16:00:20.259 017 W1 <I> <t:XmlFileDao> regist [default] /templets/default/templet.jsp
+18/12/24 16:00:20.259 017 W1 <I> <t:XmlFileDao> regist [admin] /templets/admin/templet.jsp
+18/12/24 16:00:20.259 017 W1 <I> <t:XmlFileDao> regist [mobile] /templets/mobile/templet.jsp
+18/12/24 16:00:20.212 017 W1 <D> <v:ElementManagerService> regist element:getDevice.pc
+18/12/24 16:00:20.228 017 W1 <D> <v:ElementManagerService> regist element:getDevice.mobile
+18/12/24 16:00:20.228 017 W1 <D> <v:ElementManagerService> regist element:getDevice.tablet
+18/12/24 16:00:20.228 017 W1 <D> <v:ElementManagerService> regist element:getDevice.tablet-low
+18/12/24 16:00:20.259 017 W1 <I> <t:XmlFileDao> regist [advance] /templets/default/templet.jsp
+18/12/24 16:00:20.275 017 W1 <I> <t:XmlFileDao> regist [no-apply] null
+18/12/24 16:00:20.275 017 W1 <I> <t:XmlFileDao> regist [wts] /WEB-APP/wts/templets/desktop/templet.jsp
+18/12/24 16:00:20.275 017 W1 <I> <t:XmlFileDao> regist [pub] /templets/pub/pcTemplet.jsp
+18/12/24 16:00:20.275 017 W1 <I> <t:XmlFileDao> regist [builder] /WEB-APP/builder/templets/pcUtestTemplet.jsp
+18/12/24 16:00:20.275 017 W1 <I> <t:MenuMgrBean> Menu DAO class : coreview.menu.dao.XmlMenuDao
+18/12/24 16:00:20.275 017 W1 <I> <t:XmlMenuDao> load menu dir:C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe name:sitemap.xml
+18/12/24 16:00:20.275 017 W1 <I> LOADING MENU ITEM .............................
+18/12/24 16:00:20.369 017 W1 <I> <t:XmlMenuDao> load menu info sucess. loadtime:94
+18/12/24 16:00:20.228 017 W1 <S> <f:ServiceManager> start service:ElementManagerServiceImpl
+18/12/24 16:00:20.369 017 W1 <S> <f:ServiceManager> start service:WebsiteManagementService
+18/12/24 16:00:20.400 017 W1 <S> <f:ServiceManager> start service:RESTfulRouteService
+18/12/24 16:00:20.400 017 W1 <S> <f:ServiceManager> start service:PerformanceMonitorService
+18/12/24 16:00:20.400 017 W1 <S> <f:ServiceManager> running CoreService :6
+18/12/24 16:00:20.369 017 W1 <I> <v:RESTfulRouteService> REG C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\web\url-route\admin.xml
+18/12/24 16:00:20.384 017 W1 <I> <v:RESTfulRouteService> REG C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\web\url-route\sample.xml
+18/12/24 16:00:20.400 017 W1 <I> * coreFRAME Property Information 
+ * BLD_ROOT_DIRECTORY
+	C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\bld
+ * SERVLET_CONTEXT_EVENT
+	javax.servlet.ServletContextEvent[source=org.apache.catalina.core.ApplicationContextFacade@25700ab4]
+ * FRAMEWORK_LOADTIME
+	2018-12-24 16:00:20
+ * WEB_CONTEXT_NAME
+	
+ * class.dynamic.value
+	4
+ * COREFRAME_CONFIG_HOME
+	C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe
+ * target.encoding
+	utf-8
+ * COREFRAME_CONFIG_FILE
+	C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\WEB-INF\coreframe\config.xml
+ * WEB_DOCUMENT_ROOT
+	C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\
+ * domain.name
+	http://yourdomainname.com
+ * WEBAPP_HOME_DIRS
+	[]18/12/24 16:00:20.275 017 W1 <D> <t:MenuMgrBean> 초기화  documentRoot:C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\
+18/12/24 16:00:20.275 017 W1 <D> <t:MenuMgrBean> 초기화  contextPath:
+18/12/24 16:00:20.275 017 W1 <D> <t:MenuMgrBean> 초기화  isReload:true
+18/12/24 16:00:20.400 017 W1 <D> <f:FrameworkEventManager> scope:cf:serverStart class:coreframe.service.less.LessService
+18/12/24 16:00:20.400 017 W1 <S> <f:ServiceManager> running Service(UserService) :3
+18/12/24 16:00:20.400 017 W1 <S> <f:CoreApplication> startService - complete
+18/12/24 16:00:20.400 017 W1 <S> coreFRAME complete startup process. Version:5.0.266
+18/12/24 16:00:20.400 017 W1 <S> <f:FrameworkContextListener> context:  version:5.0.266 Apache Tomcat/8.5.34
+18/12/24 16:00:20.415 017 W1 <S> <t:UIFilter> coreVIEW Filter init.
+18/12/24 16:00:20.400 017 W1 <D> **********************************************************
+18/12/24 16:00:20.400 017 W1 <D> **********************************************************
+18/12/24 16:00:20.634 081 W1 <D> <LessService> LessServiceStart! 1 less files. [encoding : UTF-8] [initCompile : false] [reloadCheckTimeSec : 2][compress : false]
+18/12/24 16:00:20.634 081 W1 <D> <LessService> envJsPath   : C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\/WEB-INF/coreframe/service/web/env.rhino.js
+18/12/24 16:00:20.634 081 W1 <D> <LessService> lessJsPath  : C:\Users\CP\Downloads\workspace\coreframe-webponent\out\artifacts\coreframe_webponent_Web_exploded\/WEB-APP/webponent/thirdParty/less/less-1.3.3.min.js

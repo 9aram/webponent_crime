@@ -1,0 +1,152 @@
+18/12/17 09:25:42.622 068 W1 <M> 17 coreframe.db.ConnectionManager (derbyPool)
+0 coreframe.db.ConnectionManager (derbyPool) 1211
+18/12/17 09:25:56.634 067 W1 <M> 32 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1457
+18/12/17 09:51:43.623 063 W1 <M> URL ERROR
+
+*REQUEST[null] null
+*EXCEPTION
+org.apache.jasper.JasperException: org.apache.jasper.JasperException: Unable to compile class for JSP
+	at org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:579)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:403)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at coreview.layout.filter.UIFilter.doFilter(UIFilter.java:534)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.jasper.JasperException: Unable to compile class for JSP
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:610)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	... 28 more
+Caused by: java.lang.IllegalArgumentException: Negative time
+	at java.io.File.setLastModified(File.java:1427)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:376)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	... 29 more
+
+18/12/17 09:51:50.777 065 W1 <M> 34 coreview.layout.filter.UIFilter (/myProject/main.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/main.jsp) 1359
+18/12/17 09:52:41.670 069 W1 <M> 36 coreview.layout.filter.UIFilter (/myProject/main.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/main.jsp) 1546
+18/12/17 10:05:03.906 066 W1 <M> 29 coreview.layout.filter.UIFilter (/myProject/main.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/main.jsp) 1286
+18/12/17 10:07:14.411 066 W1 <M> 30 coreview.layout.filter.UIFilter (/myProject/main.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/main.jsp) 1009
+18/12/17 10:14:34.403 064 W1 <M> 32 coreview.layout.filter.UIFilter (/myProject/main.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/main.jsp) 1312
+18/12/17 11:02:04.107 065 W1 <M> 35 coreview.layout.filter.UIFilter (/myProject/bar_month.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/bar_month.jsp) 1296
+18/12/17 11:17:41.399 063 W1 <M> 29 coreview.layout.filter.UIFilter (/myProject/bar_month.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/bar_month.jsp) 1233
+18/12/17 14:23:54.321 068 W1 <M> 31 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1061
+18/12/17 14:24:09.621 064 W1 <M> 33 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1296
+18/12/17 14:32:56.595 067 W1 <M> URL ERROR
+
+*REQUEST[null] null
+*EXCEPTION
+org.apache.jasper.JasperException: org.apache.jasper.JasperException: Unable to compile class for JSP
+	at org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:579)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:403)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at coreview.layout.filter.UIFilter.doFilter(UIFilter.java:534)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.jasper.JasperException: Unable to compile class for JSP
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:610)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:382)
+	... 28 more
+Caused by: java.lang.IllegalArgumentException: Negative time
+	at java.io.File.setLastModified(File.java:1427)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:376)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:350)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:334)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	... 29 more
+
+18/12/17 14:36:33.092 064 W1 <M> 37 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1118
+18/12/17 14:37:43.169 063 W1 <M> 34 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1145
+18/12/17 15:11:44.669 069 W1 <M> 34 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1942
+18/12/17 15:12:28.374 063 W1 <M> 36 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1019
+18/12/17 15:13:14.993 067 W1 <M> 31 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1169
+18/12/17 15:14:48.685 063 W1 <M> 32 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1045
+18/12/17 15:27:39.272 063 W1 <M> 37 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1084
+18/12/17 15:28:19.615 066 W1 <M> 36 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1049
+18/12/17 15:28:45.206 064 W1 <M> 35 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1076
+18/12/17 15:30:34.200 069 W1 <M> 34 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1195
+18/12/17 15:43:08.989 064 W1 <M> 33 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1337
+18/12/17 16:00:59.560 062 W1 <M> 30 coreview.layout.filter.UIFilter (/myProject/main.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/main.jsp) 1316
+18/12/17 16:10:37.539 063 W1 <M> 34 coreview.layout.filter.UIFilter (/myProject/main.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/main.jsp) 1090
+18/12/17 16:14:52.240 064 W1 <M> 32 coreview.layout.filter.UIFilter (/myProject/main.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/main.jsp) 1055
+18/12/17 16:26:09.591 063 W1 <M> 30 coreview.layout.filter.UIFilter (/myProject/main.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/main.jsp) 1245
+18/12/17 16:27:25.019 063 W1 <M> 33 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1001
+18/12/17 16:27:25.019 063 W1 <M> 29 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1218
+18/12/17 17:19:45.848 067 W1 <M> 33 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1025

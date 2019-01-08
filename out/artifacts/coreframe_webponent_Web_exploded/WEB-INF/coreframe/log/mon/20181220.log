@@ -1,0 +1,20 @@
+18/12/20 10:01:23.818 067 W1 <M> 30 coreview.layout.filter.UIFilter (/myProject/bar_month.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/bar_month.jsp) 2044
+18/12/20 10:01:23.831 064 W1 <M> 28 coreview.layout.filter.UIFilter (/myProject/bar_month.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/bar_month.jsp) 5659
+18/12/20 10:26:06.291 064 W1 <M> 36 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1164
+18/12/20 11:12:57.987 068 W1 <M> 35 coreview.layout.filter.UIFilter (/myProject/bar_month.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/bar_month.jsp) 1066
+18/12/20 11:19:51.640 068 W1 <M> 34 coreview.layout.filter.UIFilter (/myProject/bar_month.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/bar_month.jsp) 1201
+18/12/20 13:52:04.232 066 W1 <M> 32 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1470
+18/12/20 13:52:35.336 065 W1 <M> 36 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1142
+18/12/20 15:37:59.030 064 W1 <M> 32 coreview.layout.filter.UIFilter (/myProject/main.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/main.jsp) 2235
+18/12/20 16:16:12.172 066 W1 <M> 34 coreview.layout.filter.UIFilter (/myProject/main.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/main.jsp) 1155
+18/12/20 16:37:54.511 064 W1 <M> 31 coreview.layout.filter.UIFilter (/myProject/main.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/main.jsp) 1065

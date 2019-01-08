@@ -1,0 +1,566 @@
+
+.chart01 {width: 100%; height: 400px;    margin-top: 10px;}
+.chart01 .tip .text {background: #465866; color: #fff; padding: 5px 10px; border: 1px solid #fff; border-radius: 2px;}
+.chart01 .tip .arrow {height:6px;background: url(../webponent/chart2.0/sample/chart/img/tooltip_arrow.png) no-repeat center top; margin-top: -1px; font-size: 6px;}
+
+.korea {
+    width: 500px;
+    height: 380px;
+    float: left;
+}
+
+.pie_arrests, .pie_period{
+    width: 475px;
+    height: 375px;
+    float: left;
+
+}
+.pie_period .tip .text {
+    background: #465866;
+    color: #fff;
+    padding: 5px 10px;
+    border: 1px solid #fff;
+    border-radius: 2px;
+}
+.pie_period .tip .arrow {
+    height:6px;
+    background: url(../webponent/chart/sample/chart/img/tooltip_arrow.png) no-repeat center top;
+    margin-top: -1px;
+    font-size: 6px;
+}
+
+
+body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, form, fieldset, input, textarea, blockquote {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+    padding: 0;
+    margin: 0;
+    margin: 0px auto;
+
+}
+
+nav {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+nav ul li:hover > ul {
+    display: block;
+}
+
+nav ul {
+    list-style: none;
+    position: relative;
+    display: inline-table;
+}
+
+nav ul:after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+nav ul li {
+    background: #EDEEF4;
+    margin: 1px;
+    float: left;
+    font-size: 12pt;
+    color: rgb(144, 144, 147);
+    font-family: "맑은 고딕";
+    font-weight: bold;
+    BORDER-RADIUS: 80PX;
+}
+
+
+ul > li:hover > a,
+ul > li:focus > a,
+ul > li:active > a,
+ul > li.active >a {
+    color: white;
+    background: #1e9c97bf;
+    background: linear-gradient(top, #1e9c97bf 0%, #1e9c97bf 40%);
+    background: -moz-linear-gradient(top, #1e9c97bf 0%, #1e9c97bf 40%);
+    background: -webkit-linear-gradient(top, #1e9c97bf 0%, #1e9c97bf 40%);
+    BORDER-RADIUS: 80PX;
+}
+
+nav ul li a {
+    height: 25px;
+    width: 40px;
+    display: block;
+    padding: 3px 45px;
+    color: #757575;
+    text-decoration: none;
+}
+
+.title {
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 42px;
+    color: #444;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.square {
+    font-family: '맑은 고딕';
+    font-size: 20px;
+    line-height: 24px;
+    color: #113b8b;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+}
+
+.subtitle {
+    font-family: '맑은 고딕';
+    font-size: 27px;
+    line-height: 33px;
+    color: #113b8b;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+}
+
+.divide_line {
+    background-color: rgb(17, 59, 139);
+    border-width: 2.5px;
+    border-right-color: transparent;
+    border-left-color: transparent;
+    border-bottom-color: transparent;
+    border-style: solid;
+    border-color: rgb(17, 59, 139);
+    z-index: 13;
+    width: 1000px;
+    margin: 15px 0;
+}
+.vertical_line{
+    float: left;
+    background-color: rgba(0, 0, 0, 0);
+    border-width: 2px;
+    border-style: dashed;
+    border-left-color:  rgb(230, 230, 230);
+    width:2px;
+    height: 400px;
+    border-radius: 1px;
+    margin: 0 10px;
+    border-right-color: transparent;
+    border-top-color: transparent;
+    border-bottom-color: transparent;
+}
+.horizon_line{
+     float: left;
+     background-color: rgba(0, 0, 0, 0);
+     border-width: 2px;
+     border-style: dashed;
+     border-bottom-color:  rgb(230, 230, 230);
+     height:2px;
+     width: 1000px;
+     border-radius: 1px;
+     margin: 10 0px;
+     border-right-color: transparent;
+     border-left-color: transparent;
+     border-top-color: transparent;
+     margin-bottom: 15px;
+ }
+.horizon_line2{
+    float: left;
+    background-color: rgba(0, 0, 0, 0);
+    border-width: 2px;
+    border-style: dashed;
+    border-bottom-color:  rgb(230, 230, 230);
+    height:2px;
+    width: 1000px;
+    border-radius: 1px;
+
+    border-right-color: transparent;
+    border-left-color: transparent;
+    border-top-color: transparent;
+    margin-bottom: 15px;
+}
+#today_date {
+    padding-top: 10px;
+    float: right;
+    font-size: 18px;
+}
+
+.div_sub1, div_sub2 {
+    DISPLAY: INLINE;
+    width: 300px;
+    font-family: '맑은 고딕';
+    font-size: 20px;
+    line-height: 24px;
+    color: #214390;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    padding-bottom: 10px;
+}
+
+.chart_map {
+    float: left;
+    display: inline;
+    width: 500px;
+}
+
+.chart_pie {
+     float: left;
+     display: inline;
+     width: 400px;
+    /* border: 2px dashed rgb(230, 230, 230);*/
+     border-right-color: transparent;
+     border-top-color: transparent;
+     border-left-color: transparent;
+
+
+ }
+.chart_line {
+    float: left;
+    display: inline;
+    width: 1000px;
+    border: 2px dashed rgb(230, 230, 230);
+    border-right-color: transparent;
+    border-top-color: transparent;
+    border-left-color: transparent;
+
+
+}
+.chart_line2 {
+    float: left;
+    display: inline;
+    width: 1000px;
+
+}
+
+.wrap{
+    margin: 0 auto;
+    width: 1000px;
+}
+.wrap_grid {
+    margin: 0 auto;
+    width: 1000px;
+}
+.menu_icon{
+    width: 40px;
+    height: 22px;
+    padding-top: 1px;
+    /*margin-left: -6px;*/
+}
+div {
+    display: block;
+
+}
+
+html {
+    font: 400 14px/20px NBG, NSQ, "\B098\B214\ACE0\B515", "Malgun Gothic", "Helvetica Neue", Helvetica, AppleSDGothicNeo, Arial, sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    background: #fff;
+    color: #757575;;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Microsoft Yahei", "NSQ", "Malgun Gothic", "Helvetica Neue", Helvetica, "AppleSDGothicNeo", Arial, sans-serif;
+}
+
+.btn_download{
+    font: 400 19px Arial;
+   background: url("../../WEB-APP/webponent/grid2.0/sample/layout/img/btn_search.png");
+    border: 0;
+    margin: 0;
+    padding: 0;
+    width: 58px;
+    height: 33px;
+    cursor: pointer;
+    color: #fff;
+    line-height: 100%;
+    font-weight: bold;
+
+    margin-bottom: 10px;
+}
+#excelDownload{
+    FLOAT: RIGHT;
+
+}
+.search_btn{
+    float: left;
+    outline: 0;
+    box-shadow: none;
+    border: 0 !important;
+
+    background-image: none;
+    margin: 0;
+    /* padding: 0 0 0 .5em; */
+    color: #fff;
+    cursor: pointer;
+    position: relative;
+    display: block;
+    width: 40px;
+    height: 33px;
+    line-height: 2.4;
+    background: #113B8B;
+    overflow: hidden;
+    border-radius: 80px;
+}
+
+.center-on-page {
+    float: right;
+}
+
+h1 {
+    text-align: center;
+}
+/* Reset Select */
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    outline: 0;
+    box-shadow: none;
+    border: 0 !important;
+    background: #113B8B;
+    background-image: none;
+}
+/* Custom Select */
+.select {
+    position: relative;
+    display: block;
+    width: 100px;
+    height: 33px;
+    line-height: 2.4;
+    background: #2c3e50;
+    overflow: hidden;
+    border-radius: 80px;
+    float: left;
+}
+select {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0 0 0 .5em;
+    color: #fff;
+    cursor: pointer;
+}
+select::-ms-expand {
+    display: none;
+}
+/* Arrow */
+.select::after {
+    color: white;
+    content: '\25BC';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    padding: 0 10px;
+    background: #365FA4;
+    pointer-events: none;
+}
+
+.select::after {
+    -webkit-transition: .25s all ease;
+    -o-transition: .25s all ease;
+    transition: .25s all ease;
+}
+
+.horizon_line_v{
+    display: none;
+    float: left;
+    background-color: rgba(0, 0, 0, 0);
+    border-width: 2px;
+    border-style: dashed;
+    border-bottom-color:  rgb(230, 230, 230);
+    height:2px;
+    width: 90%;
+    margin-left: 5%;
+    border-radius: 1px;
+    margin: 10 0px;
+    border-right-color: transparent;
+    border-left-color: transparent;
+    border-top-color: transparent;
+    margin-bottom: 15px;
+}
+
+@media only screen and (max-width: 640px) {
+    .wrap_grid{
+        width : 100%;
+        overflow : hidden;
+    }
+    .title{
+        font-size: 150%;
+        font-weight: 700;
+        line-height: 42px;
+        color: #444;
+        text-align: center;
+        padding-top: 3%;
+
+    }
+    .square{
+        font-size: 100%;
+        float: left;
+        margin: 1%;
+    }
+    .center-on-page{
+
+        margin-right: 1%;
+        float: right;
+
+    }
+    .subtitle{
+    !important;
+        font-size: 140%;
+        float: left;
+    }
+    .wrap{
+        width : 100%;
+    overflow : hidden;
+    }
+    .menu_icon{
+        width: 45%;
+        height: 67%;
+        padding-top: 4px;
+    }
+    nav{
+        margin-top: 1%;
+        margin-bottom: 2%;
+        text-align: center;
+
+    }
+    nav ul{
+        margin: 0 auto;
+        width: 100%;
+        margin-top: 1%;
+        margin-bottom: 2%;
+        list-style: none;
+        padding: 0;
+        color: #757575;
+
+    }
+    nav ul li:first-child{
+        display: none;
+    }
+    nav ul li{
+        background: #EDEEF4;
+        margin: 1px;
+        float: left;
+        font-size: 80%;
+        color: rgb(144, 144, 147);
+        font-family: "맑은 고딕";
+        font-weight: bold;
+        BORDER-RADIUS: 80PX;
+        width: 18%;
+        height: 10%;
+        margin: 0 0.5%;
+    }
+    .list_margin{
+        margin-left: 3%;
+    }
+    nav ul li a {
+
+    width: 100%;
+        display: block;
+        padding: 0;
+        color: #757575;
+        text-decoration: none;
+       /* margin-left: 5%;*/
+    }
+    .menu_icon{
+
+    }
+
+    .vertical_line{
+        display: none;
+    }
+   .divide_line{
+       width: 100%;
+       float: left;
+       margin: 1.5% 0;
+   }
+    .wrap_menu{
+        width: 100%;
+    }
+    .div_sub1{
+        font-size: 110%;
+        padding: 3%;
+    }
+    .chart_map, chart_pie {
+        float: left;
+        display: inline;
+        width: 100%;
+        width: 100%;
+    }
+     .chart_pie {
+        float: left;
+        display: inline;
+        width: 100%;
+        width: 100%;
+    }
+
+    .korea, .pie_arrests{
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+        height: 380px;
+        float: left;
+    }
+     .pie_arrests{
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+        height: 380px;
+        float: left;
+    }
+     .chart_line2{
+         width: 100%;
+     }
+    .chart01 {width: 95%; height: 400px;    margin-top: 10px;
+        float: left;
+    overflow: scroll}
+    .chart01 .tip .text {background: #465866; color: #fff; padding: 5px 10px; border: 1px solid #fff; border-radius: 2px;}
+    .chart01 .tip .arrow {height:6px;background: url(../webponent/chart2.0/sample/chart/img/tooltip_arrow.png) no-repeat center top; margin-top: -1px; font-size: 6px;}
+
+    .horizon_line{
+        float: left;
+        background-color: rgba(0, 0, 0, 0);
+        border-width: 2px;
+        border-style: dashed;
+        border-bottom-color:  rgb(230, 230, 230);
+        height:2px;
+        width: 90%;
+        margin-left: 5%;
+        border-radius: 1px;
+        margin: 10 0px;
+        border-right-color: transparent;
+        border-left-color: transparent;
+        border-top-color: transparent;
+        margin-bottom: 15px;
+    }
+    .horizon_line_v{
+        display: block;
+        float: left;
+        background-color: rgba(0, 0, 0, 0);
+        border-width: 2px;
+        border-style: dashed;
+        border-bottom-color:  rgb(230, 230, 230);
+        height:2px;
+        width: 90%;
+        margin-left: 5%;
+        border-radius: 1px;
+        margin: 10 0px;
+        border-right-color: transparent;
+        border-left-color: transparent;
+        border-top-color: transparent;
+        margin-bottom: 15px;
+    }
+
+
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page"
+	xmlns:c="http://java.sun.com/jsp/jstl/core" version="2.0">
+	<jsp:directive.page contentType="text/html; charset=UTF-8"
+		pageEncoding="UTF-8" />
+	<jsp:directive.page extends="coreframe.http.JspxController" />
+	<jsp:directive.page import="java.io.*,java.util.*" />
+	<jsp:directive.page import="java.lang.*" />
+
+	<jsp:directive.page
+		import="coreframe.http.*,coreframe.data.*,coreframe.http.multipart.*" />
+	<jsp:directive.page import="coreframe.service.validation.*" />
+	<jsp:directive.page import="java.io.File" />
+	<jsp:directive.page import="java.io.PrintWriter" />
+
+
+
+	<c:set scope="request" var="viewpage.prefix" value="/curriculum1.4/" />
+	<c:set scope="request" var="viewpage.postfix" value=".jsp" />
+
+	<jsp:declaration><![CDATA[String bldPath = "/main_board/";
+
+	protected String getDefaultMethodName() {
+		return "board";
+	}
+
+	//게시판리스트
+	public void board(ViewMeta view) throws IOException {
+
+		//HttpServletRequest의 각 paramter 키/값을 DataSet 형태로 변환하여 반환한다.
+		DataSet input = view.getInputDataSet();
+		InteractionBean interact = new InteractionBean();
+		input.put("sqlID", "getBoardCount");
+		//output.getInt("total_count");
+		DataSet output = interact.execute(bldPath + "select_board", input);
+		view.setAttribute("boardList", output.toList());
+		view.setViewName("list");
+	}
+
+	
+
+	]]></jsp:declaration>
+</jsp:root>

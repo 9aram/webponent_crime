@@ -1,0 +1,54 @@
+18/12/12 09:35:55.447 071 W1 <M> 17 coreframe.db.ConnectionManager (derbyPool)
+0 coreframe.db.ConnectionManager (derbyPool) 2190
+18/12/12 09:36:22.947 070 W1 <M> 33 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1169
+18/12/12 09:53:38.587 066 W1 <M> 17 coreframe.db.ConnectionManager (derbyPool)
+0 coreframe.db.ConnectionManager (derbyPool) 2612
+18/12/12 09:53:46.013 063 W1 <M> 35 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1763
+18/12/12 10:20:09.536 064 W1 <M> 28 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1624
+18/12/12 10:50:08.243 064 W1 <M> 34 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1506
+18/12/12 10:50:40.736 066 W1 <M> 29 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1567
+18/12/12 13:36:19.328 068 W1 <M> 29 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1512
+18/12/12 13:38:31.805 062 W1 <M> 31 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1455
+18/12/12 14:48:41.563 064 W1 <M> 36 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1307
+18/12/12 14:51:53.775 064 W1 <M> 31 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1096
+18/12/12 15:04:26.990 066 W1 <M> 30 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1387
+18/12/12 15:04:26.990 066 W1 <M> 35 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1536
+18/12/12 15:04:26.990 066 W1 <M> 34 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1255
+18/12/12 15:04:26.991 065 W1 <M> 29 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1711
+18/12/12 15:04:26.991 065 W1 <M> 28 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 3483
+18/12/12 15:05:18.608 067 W1 <M> 31 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1534
+18/12/12 15:22:32.690 066 W1 <M> 34 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 4681
+18/12/12 15:22:32.692 069 W1 <M> 29 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 3065
+18/12/12 16:01:10.750 063 W1 <M> 27 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1002
+18/12/12 16:01:23.954 062 W1 <M> 27 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1144
+18/12/12 16:02:19.059 063 W1 <M> 36 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1211
+18/12/12 16:02:40.004 069 W1 <M> 28 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1286
+18/12/12 16:03:40.909 065 W1 <M> 28 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1203
+18/12/12 16:04:02.127 068 W1 <M> 31 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1014
+18/12/12 16:12:22.335 065 W1 <M> 27 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1147
+18/12/12 17:20:43.286 068 W1 <M> 27 coreview.layout.filter.UIFilter (/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/myProject/list.jsp) 1269

@@ -1,0 +1,115 @@
+18/12/07 09:12:25.369 067 W1 <M> 35 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 6359
+18/12/07 09:13:58.015 066 W1 <M> 37 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 2086
+18/12/07 09:14:26.114 062 W1 <M> 29 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 2723
+18/12/07 09:14:43.056 069 W1 <M> 33 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 4461
+18/12/07 09:15:31.309 062 W1 <M> 31 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 3792
+18/12/07 09:15:43.024 064 W1 <M> 31 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 2452
+18/12/07 09:16:44.706 068 W1 <M> 33 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1603
+18/12/07 09:16:44.790 062 W1 <M> 31 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 2791
+18/12/07 09:17:11.425 067 W1 <M> 29 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1778
+18/12/07 09:18:03.293 066 W1 <M> 34 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 2294
+18/12/07 09:18:14.294 062 W1 <M> 28 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 3337
+18/12/07 09:19:05.057 066 W1 <M> 33 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 18572
+18/12/07 09:19:06.677 068 W1 <M> 29 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 2968
+18/12/07 09:19:06.677 068 W1 <M> 34 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 2820
+18/12/07 09:19:22.153 064 W1 <M> 29 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1391
+18/12/07 09:19:27.857 062 W1 <M> 34 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1780
+18/12/07 09:20:04.185 067 W1 <M> 30 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1616
+18/12/07 09:22:19.304 069 W1 <M> 33 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1303
+18/12/07 09:22:57.543 066 W1 <M> 28 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1991
+18/12/07 09:24:47.291 066 W1 <M> 30 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 2139
+18/12/07 09:25:03.022 068 W1 <M> 35 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1394
+18/12/07 09:25:09.725 062 W1 <M> 31 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1450
+18/12/07 09:25:48.059 066 W1 <M> 36 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1807
+18/12/07 09:25:58.348 062 W1 <M> URL ERROR
+
+*REQUEST[null] null
+*EXCEPTION
+org.apache.jasper.JasperException: org.apache.jasper.JasperException: Unable to compile class for JSP
+	at org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:565)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:389)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at coreview.layout.filter.UIFilter.doFilter(UIFilter.java:534)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:800)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1471)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.jasper.JasperException: Unable to compile class for JSP
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:610)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:368)
+	... 28 more
+Caused by: java.lang.IllegalArgumentException: Negative time
+	at java.io.File.setLastModified(File.java:1427)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:377)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:351)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:335)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	... 29 more
+
+18/12/07 09:26:03.422 064 W1 <M> 28 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1655
+18/12/07 09:26:18.866 067 W1 <M> 33 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1361
+18/12/07 09:37:27.024 069 W1 <M> 29 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1249
+18/12/07 09:38:07.713 067 W1 <M> 33 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1921
+18/12/07 09:50:15.256 062 W1 <M> 37 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1893
+18/12/07 09:50:40.159 063 W1 <M> 34 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 2006
+18/12/07 09:53:47.120 069 W1 <M> 36 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1011
+18/12/07 15:50:41.928 064 W1 <M> 30 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1180
+18/12/07 16:59:34.289 065 W1 <M> 28 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1624
+18/12/07 17:00:35.449 064 W1 <M> 31 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 5756
+18/12/07 17:00:37.323 069 W1 <M> 89 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp)
+0 coreview.layout.filter.UIFilter (/coreframe-webponent/myProject/list.jsp) 1276
