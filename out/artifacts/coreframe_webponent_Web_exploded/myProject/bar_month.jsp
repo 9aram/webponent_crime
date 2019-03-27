@@ -53,9 +53,9 @@
     <div class="wrap_menu">
         <nav>
             <ul>
-                <li><a class="tri" href="javascript:void(0);" onclick="callMonth(50035,2016);callSubtitle('살인'); this.onclick=null">살인</a></li>
+                <li><a class="tri" href="javascript:void(0);" onclick="callMonth(50128,2016);callSubtitle('살인'); this.onclick=null">살인</a></li>
                 <li class="list_margin"><a href="main.jsp"><img src="css/clipart2431071.png" alt="Italian Trulli" class="menu_icon"></img></a></li>
-                <li><a href="javascript:void(0);" class="fistClick" onclick="callMonth(50035,2016); callSubtitle('살인');" name="murder">살인</a></li>
+                <li><a href="javascript:void(0);" class="fistClick" onclick="callMonth(50128,2016); callSubtitle('살인');" name="murder">살인</a></li>
                 <li><a href="javascript:void(0);" onclick="callMonth(50047,2016); callSubtitle('절도');" name="theft">절도</a></li>
                 <li><a href="javascript:void(0);" onclick="callMonth(50033,2016); callSubtitle('강간');" name="rape">강간</a></li>
                 <li><a href="javascript:void(0);" onclick="callMonth(50039,2016); callSubtitle('강도');" name="robbery">강도</a></li>
